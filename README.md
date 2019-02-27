@@ -1,2 +1,2 @@
 # Softwarové právo
-Shrnutí znalostí a odpovědí z předmětu TSPR (3.ročník, zimní semestr) 
+Shrnutí otázek a odpovědí z předmětu TSPR - Softwarové právo (3.ročník, zimní semestr) 
